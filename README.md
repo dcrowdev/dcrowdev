@@ -18,4 +18,6 @@ dcrowdev1025@gmail.com
   <img src="./images/JavaScript-logo.png" width="100" />
   <img src="./images/jquery.png" width="100" />
   <img src="./images/markdown-logo.png" width="100" />
+  <img src="./images/node-logo.png" width="100" />
+  <img src="./images/bootstrap-logo.png" width="100" />
 </p>
