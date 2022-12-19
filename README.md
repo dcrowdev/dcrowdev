@@ -36,10 +36,10 @@ dcrowdev1025@gmail.com -->
 ##
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcrowdev&show_icons=true&locale=en&layout=compact" alt="dcrowdev" /></p>
 <br>
-
-
-
-
+<br>
+<br>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dcrowdev&show_icons=true&locale=en" alt="dcrowdev" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dcrowdev&" alt="dcrowdev" /></p>
+<br>
+<br>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcrowdev&" alt="dcrowdev" /></p>
