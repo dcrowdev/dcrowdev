@@ -28,14 +28,14 @@ dcrowdev1025@gmail.com -->
 
 ## -------- Connect With Me! ----------
 <p align="left">
-<a href="https://twitter.com/dcrowdev1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcrowdev1025" height="100" width="100" /></a><dl></dl>
+<a href="https://twitter.com/dcrowdev1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcrowdev1025" height="100" width="100" /></a><dl>
 <a href="https://linkedin.com/in/dylan-crowley-3974b8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-crowley-3974b8252" height="100" width="100" /></a>
-</p><dd>
+</p>
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcrowdev&show_icons=true&locale=en&layout=compact" alt="dcrowdev" /></p>
-<dd>
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dcrowdev&show_icons=true&locale=en" alt="dcrowdev" /></p>
-</dd>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcrowdev&" alt="dcrowdev" /></p>
