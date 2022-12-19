@@ -27,7 +27,7 @@ dcrowdev1025@gmail.com -->
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/dcrowdev" target="blank"><img src="https://img.shields.io/twitter/follow/dcrowdev1025?logo=twitter&style=for-the-badge" alt="dcrowdev1025" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dcrowdev" target="blank"><img src="https://img.shields.io/twitter/follow/dcrowdev?logo=twitter&style=for-the-badge" alt="dcrowdev1025" /></a> </p>
 <p align="left">
 <a href="https://twitter.com/dcrowdev1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcrowdev1025" height="30" width="100" /></a>
 <a href="https://linkedin.com/in/dylan-crowley-3974b8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-crowley-3974b8252" height="30" width="100" /></a>
