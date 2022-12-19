@@ -29,7 +29,7 @@ dcrowdev1025@gmail.com -->
 ## -------- Connect With Me! ----------
 <p align="left">
 <a href="https://twitter.com/dcrowdev1025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dcrowdev1025" height="100" width="100" /></a>
-<a href="https://linkedin.com/in/dylan-crowley-3974b8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-crowley-3974b8252" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dylan-crowley-3974b8252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dylan-crowley-3974b8252" height="100" width="100" /></a>
 </p>
 
 
