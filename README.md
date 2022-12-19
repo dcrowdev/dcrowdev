@@ -42,4 +42,4 @@ dcrowdev1025@gmail.com -->
 <br>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dcrowdev&" alt="dcrowdev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dcrowdev&" alt="dcrowdev" /></p>
