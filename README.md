@@ -34,11 +34,11 @@ dcrowdev1025@gmail.com -->
 
 
 ##
-[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcrowdev)](https://github.com/dcrowdev/github-readme-stats)
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcrowdev&theme=gradient)](https://github.com/dcrowdev/github-readme-stats)
 <br>
 <br>
 <br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dcrowdev&show_icons=true&locale=en" alt="dcrowdev" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcrowdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <br>
