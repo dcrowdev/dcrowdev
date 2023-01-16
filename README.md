@@ -34,7 +34,7 @@ dcrowdev1025@gmail.com -->
 
 
 ##
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dcrowdev&show_icons=true&locale=en&layout=compact" alt="dcrowdev" /></p>
+[![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcrowdev)](https://github.com/dcrowdev/github-readme-stats)
 <br>
 <br>
 <br>
